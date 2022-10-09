@@ -5,5 +5,3 @@ For more details you can read my resarch work provided in english language here:
 
 Also you can check my presentation on this article:
 [David_Davydovich_Protection.pptx](https://github.com/Dpdavydovich/Influence-of-the-topology-of-contact-networks-on-the-spread-of-infections-in-St.-Petersburg/files/9741439/David_Davydovich_Protection.pptx)
-
-How to use code and data:
